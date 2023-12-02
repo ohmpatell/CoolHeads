@@ -1,0 +1,11 @@
+{
+  "name": "coolheads",
+  "version": "1.0.0",
+  "description": "A library to giving styles to headings easier",
+  "main": "coolHeads.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ohm Patel",
+  "license": "ISC"
+}
